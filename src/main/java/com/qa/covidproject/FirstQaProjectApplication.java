@@ -8,6 +8,7 @@ public class FirstQaProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FirstQaProjectApplication.class, args);
+
 	}
 
 }
